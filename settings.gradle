@@ -1,0 +1,3 @@
+rootProject.name = 'springboot-demos'
+include 'multi-repositories'
+
